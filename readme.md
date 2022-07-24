@@ -1,0 +1,1 @@
+![MyImage](./thumbnail.png)
